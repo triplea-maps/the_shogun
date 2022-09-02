@@ -1,0 +1,3 @@
+map_name: the_shogun
+games:
+- {game_name: The Shogun, file_name: the_shogun.xml}

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-	<info name="The Shogun" version="1.3"/>
+	<info name="The Shogun" version="1.4"/>
 	<loader javaClass="games.strategy.triplea.TripleA"/>
 	<triplea minimumVersion="2.5.22294"/>
 	<diceSides value="6"/>

@@ -4495,22 +4495,26 @@ transports Or can add "isCombatTransport" value="true" to the unit attachment --
     </property>
 
  <!-- ======================================= NOTES =======================================  -->	
-        <property name="notes">
-            <value>
-            <![CDATA[
-            <html>
-			<body bgcolor="CCCCCC" align="left">
-				<div style="padding:10px;"text-align:justify;">
-				<br> For the latest discussion and download, copy and paste the link below
-				<br>
-				<a href="https://forums.triplea-game.org/topic/3146/the-shogun-official-thread">https://forums.triplea-game.org/topic/3146/the-shogun-official-thread</a>
-				<br>
-				<br><center><img src="preview2.png"/></center>
-				<br>
-				<br><center><img src="Game_Notes.png"/></center>
-			</html>
-            ]]>
-			</value>
-        </property>
+    <property name="notes">
+        <value>
+        <![CDATA[
+        <html>
+		<body bgcolor="AAAAAA" align="left">
+		<div style="padding:10px;"text-align:justify;">
+			<br>Version 1.4
+			<br>
+			<br> For the latest discussion and download, copy and paste the link below
+			<br><a href="https://forums.triplea-game.org/topic/3146/the-shogun-official-thread">https://forums.triplea-game.org/topic/3146/the-shogun-official-thread</a>
+			<br>
+			<br><center><img src="preview2.png"/></center>
+			<br>
+			<br><center><img src="Game_Notes.png"/></center>
+		</div>
+		</body>
+		</html>
+        ]]>
+		</value>
+    </property>
+
 </propertyList>
 </game>

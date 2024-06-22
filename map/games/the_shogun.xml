@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-	<info name="The Shogun" version="1.4"/>
+	<info name="The Shogun" version="1.5"/>
 	<loader javaClass="games.strategy.triplea.TripleA"/>
 	<triplea minimumVersion="2.5.22294"/>
 	<diceSides value="6"/>
 <!--
+v???
+Added Shogun Advanced sound files
+
 v03
 Clan start splash panels /
 rewriten politics text /
@@ -4501,7 +4504,7 @@ transports Or can add "isCombatTransport" value="true" to the unit attachment --
         <html>
 		<body bgcolor="AAAAAA" align="left">
 		<div style="padding:10px;"text-align:justify;">
-			<br>Version 1.4
+			<br>Version 1.5
 			<br>
 			<br> For the latest discussion and download, copy and paste the link below
 			<br><a href="https://forums.triplea-game.org/topic/3146/the-shogun-official-thread">https://forums.triplea-game.org/topic/3146/the-shogun-official-thread</a>
